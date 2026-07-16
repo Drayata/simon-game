@@ -23,9 +23,9 @@ h1 {
   border-radius: 15px;
 }
 
-.box:active {
+/* .box:active {
   background-color: lightgray;
-}
+} */
 
 .red {
   background-color: red;
@@ -41,4 +41,8 @@ h1 {
 
 .blue {
   background-color: blue;
+}
+
+.box-active {
+  background-color: lightgray;
 }
